@@ -1,0 +1,11 @@
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+Entidad: Apoyo
+- id
+- causa_id
+- nombre
+- fecha
